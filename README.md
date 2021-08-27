@@ -1,4 +1,4 @@
 # ITF-Lab 2021
 
 ## Author
-Thampapon Prathum 64070046
+ธรรมปพน - ประทุม 64070046
